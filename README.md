@@ -1,8 +1,15 @@
-import java.util.Scanner;
-public class TugasArrayJava {
+
+
+    import java.util.Scanner;
+    
+    public class TugasArrayJava {
+    
     public static void main(String[] args) {
+        
         Scanner input= new Scanner(System.in);
+        
         //Var
+        
         Byte DataHandphone;
 
         //Input User
@@ -28,5 +35,5 @@ public class TugasArrayJava {
 
 
     }
-}
+    }
    
